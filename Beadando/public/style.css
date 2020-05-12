@@ -1,0 +1,82 @@
+.navbar { margin-bottom: 1rem;}
+
+.FooldalCim{
+	text-align: center;
+
+	font: bold 60px Arial, sans-serif;
+}
+.navigacio{
+    background-color: black;
+		-webkit-filter: invert(100%);
+    filter: invert(100%);
+
+
+}
+
+.oldalcim{
+	font-weight: bold;
+}
+.FooldalAlcim{
+	text-align: center;
+
+	font: bold 30px Arial, sans-serif;
+}
+
+body{
+
+background: url(dvd.gif);
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+
+	-webkit-filter: invert(100%);
+    filter: invert(100%);
+
+	}
+
+.videok{
+		-webkit-filter: invert(100%);
+    filter: invert(100%);
+
+    color:white;
+}
+
+.hozzaadas{
+			-webkit-filter: invert(100%);
+    filter: invert(100%);
+
+    color:white;
+}
+
+#hozzaadasGomb{
+				-webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+
+.howto{
+	font: bold 30px Arial, sans-serif;
+}
+
+.howto1{
+		text-align: center;
+}
+
+.leiras{
+	font-style: oblique;
+}
+
+.belepes{
+				-webkit-filter: invert(100%);
+    filter: invert(100%);
+
+    color:white;
+}
+
+.regisztracio{
+				-webkit-filter: invert(100%);
+    filter: invert(100%);
+
+    color:white;
+}
